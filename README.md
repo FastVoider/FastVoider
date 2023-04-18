@@ -1,16 +1,27 @@
-### Hi there 👋
+# 😩 FastCW
 
-<!--
-**FastVoider/FastVoider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <p align="left">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/FastCW65?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/FastVoider?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FastCW?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://unpkg.com/simple-icons@8.10.0/icons/javascript.svg" />
+<br />
+
+#
+
+#
+
+### ✔ GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=FastVoider&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-profile-trophy.vercel.app/?username=FastVoider&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+#
